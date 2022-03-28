@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid rgb(12, 7, 88);
+  border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<div align="center"><font size="10" face="Ink Free" >
+
+<h2>Escolha uma trick de flat ground abaixo para ver um tutorial!</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Caveman</th>
+    <th>Ollie</th>
+    <th>Shove-it</th> 
+    <th>Half Cab</th>
+    <th>FS Ollie</th>
+    <th>BS Ollie</tr>
+    <th>KickFlip</th>
+  </tr>
+  <tr>
+    <th><a href="Caveman.html"></a></th>
+    <th><a href="ollie.html"></a></th> 
+    <th><a href="shove-it.html"></a></th>
+    <th><a href="halfcab.html"></a></th>
+    <th><a href="fsOllie.html"></a></th>
+    <th><a href="bsOllie.html"></a></th>
+    <th><a href="Kickflip.html"></a></th>
+  </tr>
+
+
+</body>
+</html>

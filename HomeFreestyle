@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid rgb(12, 7, 88);
+  border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<div align="center"><font size="10" face="Ink Free" >
+
+<h2>Escolha uma trick de Free Style abaixo para ver um tutorial!</h2>
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th> 
+    <th></th>
+  </tr>
+  <tr>
+    <th><a href="Flat ground/HomeFlat"><</a></th>
+    <th><a href="</a></th> 
+    <th><a href=""></a></th>
+  </tr>
+
+
+</body>
+</html>
